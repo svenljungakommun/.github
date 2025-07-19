@@ -1,5 +1,3 @@
-# Svenljunga kommun
-
 Official GitHub profile for Svenljunga kommun (Municipality of Svenljunga), Sweden.
 
 This profile is used for selected public materials related to:
